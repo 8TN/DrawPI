@@ -1,5 +1,5 @@
 # DrawPI
-DrawPi : traceur pendulaire, autonome et minimaliste à base de raspberry DrawPi, le traceur pendulaire autonome et minimaliste à base de Raspberry Pi.
+DrawPi : traceur pendulaire, autonome et minimaliste à base de raspberry DrawPi.
 (mots clefs : #raspberrypi #drawbot #diy #verticalplotter #28BYJ-48)
 
 "v_potter.py"
