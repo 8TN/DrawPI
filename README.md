@@ -8,3 +8,5 @@ la partie v plotter prend en entrée un fichier au format dérivé du format svg
 Description : http://www.labfab.fr/portfolio-item/drawpi-traceur-pendulaire-minimaliste/ 
 
 Video du proto : https://www.youtube.com/watch?v=48_3AUXz-VA
+
+"v_plotter.py" usesas input a file derivated from svg format (this allow easy previsualisation using any webbrowser or Inkscape), in fact a very limited set of svg, exclusively limited to 'path' with absolute coordinates, example to draw a square shape : "image_svg.svg".
